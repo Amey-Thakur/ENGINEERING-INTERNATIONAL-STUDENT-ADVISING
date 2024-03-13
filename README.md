@@ -1,6 +1,6 @@
 # ENGINEERING-INTERNATIONAL-STUDENT-ADVISING
  
- 👉🏻 ENG-ISA - University of Windsor
+ 👍🏻 ENG-ISA - University of Windsor
  
 ---
 
