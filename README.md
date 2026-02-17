@@ -10,7 +10,7 @@
   # Engineering International Student Advising
 
   <!-- Subtitle -->
-  ### University of Windsor · Resource Archive & Advising Hub
+  ### University of Windsor · Resource Archive & Orientation Archive
 
   <!-- Badges -->
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
@@ -20,12 +20,12 @@
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
   <!-- Short Description -->
-  **A specialized archival repository documenting essential academic, immigration, and student life resources curated for the international engineering community at the University of Windsor.**
+  **A comprehensive archival repository documenting essential academic, immigration, and student life resources curated for the international engineering community at the University of Windsor.**
 
   ---
 
   <!-- Navigation Links -->
-  [Overview](#overview) &nbsp;·&nbsp; [Resource Hub](#resource-hub) &nbsp;·&nbsp; [Advising Archive](#advising-archive) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Resource Hub](#resource-hub) &nbsp;·&nbsp; [Orientation Archive](#orientation-archive) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -37,18 +37,18 @@
 
 ## Overview
 
-The **Engineering International Student Advising (ENG-ISA)** repository serves as a centralized digital archive for materials curated to assist international engineering graduate students. This collection is specifically designed to support the academic and professional success of students within the Faculty of Engineering.
+The **Engineering International Student Advising (ENG-ISA)** repository serves as a centralized digital archive for materials curated to assist international engineering graduate students. This curated collection encompasses critical domains including academic planning, regulatory compliance, professional development, and orientation archives.
 
 ### Repository Purpose
 
-This repository represents a curated collection of advisement checklists, workshop recordings, and essential templates. The primary motivation is to consolidate faculty-specific guidance—ranging from study permit extensions to career development—into a single, accessible research hub.
+This repository represents a curated collection of advisement checklists, workshop recordings, and essential templates. The primary motivation for maintaining this archive is to consolidate faculty-specific guidance—ranging from study permit extensions to career development—into a single, accessible research hub.
 
-**Key Objectives:**
+**Why this repository exists:**
 
-- **Academic Planning**: To provide streamlined access to historical academic calendars and scheduling resources.
-- **Regulatory Guidance**: To archive essential checklists for TRV, PGWP, and Study Permit extensions tailored for engineering students.
-- **Career Readiness**: To preserve workshop materials on resume building and financial initiatives.
-- **Orientation Archives**: To maintain recordings of essential faculty-specific orientation sessions.
+- **Resource Accessibility**: To maintain organized access to essential academic, advisory, and university resources
+- **Student success**: To support the successful academic and professional integration of international engineering students
+- **Knowledge Preservation**: To archive critical orientation materials and regulatory advisory checklists
+- **Professional Readiness**: To provide a dedicated portal for information on career development and professional excellence
 
 > [!NOTE]
 > All materials were compiled and organized to serve as a supportive resource hub for the international engineering community during the 2023 academic year.
@@ -61,11 +61,11 @@ This repository represents a curated collection of advisement checklists, worksh
 
 ## Resource Hub
 
-A structured inventory of engineering advisory resources categorized by domain to facilitate efficient navigation and compliance.
+A structured inventory of essential support modules categorized by functional domain to facilitate rapid navigation and information retrieval.
 
-### Advisory Modules
+### Support Modules
 
-| # | Module | Category | Content Overview |
+| # | Module | Category | Description |
 |:-:|:---|:---:|:---|
 | 1 | [Academic Calendar](Calendar/) | **Planning** | Historical PDF records of January and February 2023 academic calendars. |
 | 2 | [Immigration Resources](Immigration%20Resources/) | **Regulatory** | Comprehensive guides for TRV, PGWP, SIN, and Study Permit extensions. |
@@ -73,13 +73,13 @@ A structured inventory of engineering advisory resources categorized by domain t
 
 ---
 
-## Advising Archive
+## Orientation Archive
 
-Archival records of specialized workshops and orientation sessions specifically for the Master of Engineering (MEng) cohorts.
+Archival records and multimedia resources from the specialized orientation sessions conducted for the international student body.
 
-### Orientation & Workshop Documentation
+### Session Documentation
 
-| # | Session / Event | Documentation Link | Description |
+| # | Event | Archival Link | Content Overview |
 |:-:|:---|:---:|:---|
 | 1 | **MEng Fall 2021 Orientation** | [Access Records](Immigration%20Resources/MEng%20Fall%202021%20Orientation%20Recordings/) | Historical orientation recordings and resources for the F21 cohort. |
 | 2 | **PGWP Workshop (2023)** | [View Recordings](Immigration%20Resources/Post-graduation%20Work%20Permit%20-%20Recording,%20Checklist%20&%20Template.html/) | Specialized recordings and templates for Post-Graduation Work Permits. |
@@ -96,10 +96,10 @@ Archival records of specialized workshops and orientation sessions specifically 
 This repository is shared to support international engineering scholars and academic advisors.
 
 **For Students**  
-Utilize these checklists and templates to ensure regulatory compliance and to prepare for professional career milestones within the Canadian engineering landscape.
+Use these resources as a reference guide for navigating academic milestones, regulatory compliance, and professional career development.
 
-**For Academic Advisors**  
-Reference these archived materials for historical context on faculty-specific advising sessions and resource distribution benchmarks.
+**For Engineering Advisors**  
+These archived materials may serve as reference points for historical advisement content and departmental resource structuring.
 
 ---
 
@@ -124,15 +124,17 @@ This repository and its curated structure are made available under the **Creativ
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
 **Institutional Context**: [University of Windsor - Faculty of Engineering](https://www.uwindsor.ca/engineering/)  
-**Target Community**: Engineering Graduate Students & MEng Scholars
+**Target Community**: International Engineering Students & Graduate Scholars
 
-This repository represents a commitment to supporting the specialized advisory needs of the engineering international student body.
+This repository represents a commitment to supporting the specialized advisory needs of the engineering international student body through organized documentation and resource curation.
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
 
-Grateful acknowledgment to the **Faculty of Engineering** advising staff and the **University of Windsor** for the foundational resources and advisory checklists that populate this archive.
+Grateful acknowledgment to the **Faculty of Engineering** advising staff and the **University of Windsor** administration for providing the foundational resources and advisory checklists that populate this archive.
+
+Special thanks to the student mentors and peer support networks whose shared experiences contribute to the collective knowledge of this archive.
 
 ---
 
@@ -144,7 +146,7 @@ Grateful acknowledgment to the **Faculty of Engineering** advising staff and the
   <!-- Footer Navigation -->
   [↑ Back to Top](#engineering-international-student-advising)
 
-  [Overview](#overview) &nbsp;·&nbsp; [Resource Hub](#resource-hub) &nbsp;·&nbsp; [Advising Archive](#advising-archive) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Resource Hub](#resource-hub) &nbsp;·&nbsp; [Orientation Archive](#orientation-archive) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
