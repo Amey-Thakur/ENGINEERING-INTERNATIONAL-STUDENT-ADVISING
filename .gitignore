@@ -1,0 +1,16 @@
+# ENGINEERING-INTERNATIONAL-STUDENT-ADVISING - Resource Hub Repository
+# Specialized .gitignore for ENG-ISA advising resources
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
+.DS_Store
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+~$*

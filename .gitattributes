@@ -1,0 +1,20 @@
+# ENGINEERING-INTERNATIONAL-STUDENT-ADVISING - Resource Hub Repository
+# Professional .gitattributes for ENG-ISA advising resources
+
+# Auto-normalize
+* text=auto
+
+# Text files
+*.md text eol=lf
+*.html text eol=lf
+*.txt text eol=lf
+
+# Binary files (Office & Media)
+*.pdf binary
+*.doc binary
+*.docx binary
+*.pptx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
