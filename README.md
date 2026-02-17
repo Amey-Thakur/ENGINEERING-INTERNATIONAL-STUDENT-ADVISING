@@ -176,7 +176,7 @@ Special thanks to the student mentors and peer support networks whose shared exp
 
   <br>
 
-  🤝🏻 [International Student Centre](https://github.com/Amey-Thakur/INTERNATIONAL-STUDENT-CENTRE) &nbsp;·&nbsp; ✍🏻 [Writing Support](https://github.com/Amey-Thakur/WRITING-SUPPORT)
+  🌐 [International Student Centre](https://github.com/Amey-Thakur/INTERNATIONAL-STUDENT-CENTRE) &nbsp;·&nbsp; ✍🏻 [Writing Support](https://github.com/Amey-Thakur/WRITING-SUPPORT)
 
 </div>
 
