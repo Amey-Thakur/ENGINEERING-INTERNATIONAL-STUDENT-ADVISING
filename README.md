@@ -25,7 +25,7 @@
   ---
 
   <!-- Navigation Links -->
-  [Overview](#overview) &nbsp;·&nbsp; [Resource Hub](#resource-hub) &nbsp;·&nbsp; [Orientation Archive](#orientation-archive) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Resource Hub](#resource-hub) &nbsp;·&nbsp; [Academic Planning](#academic-planning) &nbsp;·&nbsp; [Immigration Resources](#immigration-resources) &nbsp;·&nbsp; [Student Life Resources](#student-life-resources) &nbsp;·&nbsp; [Orientation Archive](#orientation-archive) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -172,11 +172,11 @@ Special thanks to the student mentors and peer support networks whose shared exp
   <!-- Footer Navigation -->
   [↑ Back to Top](#engineering-international-student-advising)
 
-  [Overview](#overview) &nbsp;·&nbsp; [Resource Hub](#resource-hub) &nbsp;·&nbsp; [Orientation Archive](#orientation-archive) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Resource Hub](#resource-hub) &nbsp;·&nbsp; [Academic Planning](#academic-planning) &nbsp;·&nbsp; [Immigration Resources](#immigration-resources) &nbsp;·&nbsp; [Student Life Resources](#student-life-resources) &nbsp;·&nbsp; [Orientation Archive](#orientation-archive) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
-  🤝🏻 [International Student Centre](https://github.com/Amey-Thakur/INTERNATIONAL-STUDENT-CENTRE) &nbsp;·&nbsp; ✍🏻 [Writing Support](https://github.com/Amey-Thakur/WRITING-SUPPORT)
+  🤝🙏🏻 [International Student Centre](https://github.com/Amey-Thakur/INTERNATIONAL-STUDENT-CENTRE) &nbsp;·&nbsp; ✍🏻 [Writing Support](https://github.com/Amey-Thakur/WRITING-SUPPORT)
 
 </div>
 
