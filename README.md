@@ -115,13 +115,16 @@ Archival records and multimedia resources from the specialized orientation sessi
 
 ## Usage Guidelines
 
-This repository is shared to support international engineering scholars and academic advisors.
+This repository is shared to support the international engineering community and university stakeholders.
 
 **For Students**  
 Use these resources as a reference guide for navigating academic milestones, regulatory compliance, and professional career development.
 
 **For Engineering Advisors**  
 These archived materials may serve as reference points for historical advisement content and departmental resource structuring.
+
+**For Departmental Partners**  
+The curated records of professional skills workshops and financial initiatives offer historical insights for developing faculty-specific support programs.
 
 ---
 
