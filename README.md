@@ -105,7 +105,7 @@ Archival records and multimedia resources from the specialized orientation sessi
 |:-:|:---|:---:|:---|
 | 1 | **MEng Fall 2021 Orientation** | [Access Records](Immigration%20Resources/MEng%20Fall%202021%20Orientation%20Recordings/) | Historical orientation recordings and resources for the F21 cohort. |
 | 2 | **PGWP Workshop (2023)** | [View Recordings](Immigration%20Resources/Post-graduation%20Work%20Permit%20-%20Recording,%20Checklist%20&%20Template.html/) | Specialized recordings and templates for Post-Graduation Work Permits. |
-| 3 | **Professional Skills Series** | [View Presentations](Student%20Life%20Resources/) | Resume clinics by Dr. Frise and professional career development recordings. |
+| 3 | **Professional Skills Series (January 30, 2023)** | [View Presentations](Student%20Life%20Resources/) | Resume clinics by Dr. Frise and professional career development recordings. |
 
 ---
 
