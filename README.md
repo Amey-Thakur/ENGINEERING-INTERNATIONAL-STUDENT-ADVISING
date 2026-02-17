@@ -12,7 +12,7 @@
  
 ---
 
-<p align="center"> <b> 👉🏻 Engineering International Student Advising - University of Windsor 👈🏻 <b> </p>
+<p align="center"> <b> 👉🏻 Engineering International Student Advising - University of Windsor 👈🏻 </b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING' style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</a></p>
  
