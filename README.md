@@ -41,7 +41,7 @@ The **Engineering International Student Advising (ENG-ISA)** repository serves a
 
 ### Repository Purpose
 
-This repository represents a curated collection of advisement checklists, workshop recordings, and essential templates. The primary motivation for maintaining this archive is to consolidate faculty-specific guidance—ranging from study permit extensions to career development—into a single, accessible research hub.
+This repository represents a curated collection of advisement checklists, workshop recordings, and essential templates. The primary motivation for maintaining this archive is to ensure that vital information regarding academic milestones, regulatory compliance, and professional excellence remains accessible for continuous reference.
 
 **Why this repository exists:**
 
