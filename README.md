@@ -2,8 +2,6 @@
  
  👍🏻 ENG-ISA - University of Windsor
  
- [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
- 
 ---
 
  - [X] **[Calendar](https://github.com/Amey-Thakur/ENGINEERING-INTERNATIONAL-STUDENT-ADVISING/tree/main/Calendar)**
