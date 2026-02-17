@@ -16,25 +16,8 @@
  
 <p align="center"><a href='https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING' style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</a></p>
 
----
 
-## License
 
-This repository is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE). This license allows for sharing and adaptation of the materials, provided that appropriate credit is given and any changes made are indicated.
 
-## Citation
-
-If you use any academic materials or orientation resources from this repository, please cite them as follows:
-
-```bibtex
-@misc{thakur2023engisa,
-  author = {Amey Thakur},
-  title = {ENGINEERING-INTERNATIONAL-STUDENT-ADVISING},
-  year = {2023},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Amey-Thakur/ENGINEERING-INTERNATIONAL-STUDENT-ADVISING}}
-}
-```
 
  
