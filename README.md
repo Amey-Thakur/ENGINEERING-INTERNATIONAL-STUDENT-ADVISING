@@ -81,7 +81,7 @@ A structured inventory of essential support modules categorized by functional do
 | 5 | [Social Insurance Number](Immigration%20Resources/Social%20Insurance%20Number/) | **SIN** | Documentation and guides for SIN applications and renewals. |
 | 6 | [Study Permit Extension](Immigration%20Resources/Study%20Permit%20Extension%20-%20Checklist%20and%20Template/) | **Regulatory** | Guides for engineering scholars extending their study permits. |
 | 7 | [TRV Temporary Resident Visa](Immigration%20Resources/TRV%20Temporary%20Resident%20Visa%20-%20Checklist%20and%20Template/) | **Visa** | Checklists for standard TRV applications. |
-| 8 | [TRV for PGWP Workers](Immigration%20Resources/Temporary%20Resident%20Visa%20(TRV)%20for%20PGWP%20Workers%20-%20Checklist%20and%20Template/) | **Visa** | Visa guidance for graduates transitioning to PGWP status. |
+| 8 | [TRV for PGWP Workers](Immigration%20Resources/Temporary%20Resident%20Visa%20%28TRV%29%20for%20PGWP%20Workers%20-%20Checklist%20and%20Template/) | **Visa** | Visa guidance for graduates transitioning to PGWP status. |
 
 ### Student Life Resources
 
