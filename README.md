@@ -67,8 +67,8 @@ A structured inventory of essential support modules categorized by functional do
 
 | # | Calendar Resource | Format | Description |
 |:-:|:---|:---:|:---|
-| 1 | [January 2023](Calendar/January%202023.pdf) | **PDF** | Historical record of the January 2023 academic calendar. |
-| 2 | [February 2023](Calendar/February%202023.pdf) | **PDF** | Historical record of the February 2023 academic calendar. |
+| 1 | [**January 2023**](Calendar/January%202023.pdf) | **PDF** | Historical record of the January 2023 academic calendar. |
+| 2 | [**February 2023**](Calendar/February%202023.pdf) | **PDF** | Historical record of the February 2023 academic calendar. |
 
 ### Immigration Resources
 
@@ -103,9 +103,9 @@ Archival records and multimedia resources from the specialized orientation sessi
 
 | # | Event | Archival Link | Content Overview |
 |:-:|:---|:---:|:---|
-| 1 | **MEng Fall 2021 Orientation** | [Access Records](Immigration%20Resources/MEng%20Fall%202021%20Orientation%20Recordings/) | Historical orientation recordings and resources for the F21 cohort. |
+| 1 | **Fall 2021** Orientation | [Access Records](Immigration%20Resources/MEng%20Fall%202021%20Orientation%20Recordings/) | Historical orientation recordings and resources for the F21 cohort. |
 | 2 | **PGWP Workshop (2023)** | [View Recordings](Immigration%20Resources/Post-graduation%20Work%20Permit%20-%20Recording,%20Checklist%20&%20Template.html/) | Specialized recordings and templates for Post-Graduation Work Permits. |
-| 3 | **Professional Skills Series (January 30, 2023)** | [View Presentations](Student%20Life%20Resources/) | Resume clinics by Dr. Frise and professional career development recordings. |
+| 3 | **Professional Skills Series** (**January 30, 2023**) | [View Presentations](Student%20Life%20Resources/) | Resume clinics by Dr. Frise and professional career development recordings. |
 
 ---
 
@@ -158,9 +158,9 @@ This repository represents a commitment to supporting the specialized advisory n
 
 ### Acknowledgments
 
-Grateful acknowledgment to the **Faculty of Engineering** advising staff and the **University of Windsor** administration for providing the foundational resources and advisory checklists that populate this archive.
+Grateful acknowledgment to the **Faculty of Engineering** advising staff and the **University of Windsor** administration for their dedicated effort in providing the foundational resources and advisory checklists that populate this archive. Their commitment to international student excellence and the structured delivery of professional guidance provided the essential framework that made this scholarly repository possible.
 
-Special thanks to the student mentors and peer support networks whose shared experiences contribute to the collective knowledge of this archive.
+Special thanks to the **student mentors** and **peer support networks** whose shared experiences, proactive engagement, and collaborative spirit contribute meaningfully to the collective knowledge preserved within this repository.
 
 ---
 
