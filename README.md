@@ -45,10 +45,10 @@ This repository represents a curated collection of advisement checklists, worksh
 
 **Why this repository exists:**
 
-- **Resource Accessibility**: To maintain organized access to essential academic, advisory, and university resources
-- **Student success**: To support the successful academic and professional integration of international engineering students
-- **Knowledge Preservation**: To archive critical orientation materials and regulatory advisory checklists
-- **Professional Readiness**: To provide a dedicated portal for information on career development and professional excellence
+- **Resource Accessibility**: To maintain organized access to essential academic, advisory, and university resources.
+- **Student success**: To support the successful academic and professional integration of international engineering students.
+- **Knowledge Preservation**: To archive critical orientation materials and regulatory advisory checklists.
+- **Professional Readiness**: To provide a dedicated portal for information on career development and professional excellence.
 
 > [!NOTE]
 > All materials were compiled and organized to serve as a supportive resource hub for the international engineering community during the 2023 academic year.
@@ -186,8 +186,8 @@ Special thanks to the **student mentors** and **peer support networks** whose sh
 
   ### 🎓 [MEng Computer Engineering Repository](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING)
 
-  **Computer Engineering (M.Eng) - University of Windsor**
+  **Computer Engineering (M.Eng.) - University of Windsor**
 
-  *An archival record of **graduate-level research** and **advanced engineering coursework**.*
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
