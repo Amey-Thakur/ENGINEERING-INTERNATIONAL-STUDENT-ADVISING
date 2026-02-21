@@ -51,7 +51,7 @@ This repository represents a curated collection of advisement checklists, worksh
 - **Professional Readiness**: To provide a dedicated portal for information on career development and professional excellence.
 
 > [!NOTE]
-> All materials were compiled and organized to serve as a supportive resource hub for the international engineering community during the 2023 academic year.
+> All materials were compiled and organized to serve as a supportive resource hub for the international engineering community during the **2023-2024** academic year.
 
 ---
 
